@@ -20,6 +20,6 @@
   "homepage": "https://github.com/JaxsonConnors/social-network-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.00.13"
+    "mongoose": "^6.0.13"
   }
 }
